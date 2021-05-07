@@ -1,0 +1,16 @@
+{
+  "name": "satoshi-value",
+  "version": "1.0.0",
+  "description": "Satoshi value in crypto world.",
+  "main": "index.js",
+  "keywords": [
+    "Bitcoin",
+    "litecoin",
+    "crypto",
+    "altcoin",
+    "bitcore",
+    "satoshi"
+  ],
+  "author": "@aminmahrami",
+  "license": "MIT"
+}
