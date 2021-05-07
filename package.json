@@ -11,6 +11,10 @@
     "bitcore",
     "satoshi"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aminmahrami/satoshi-value"
+  },
   "author": "@aminmahrami",
   "license": "MIT"
 }
